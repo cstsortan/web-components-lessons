@@ -1,0 +1,17 @@
+.btn {
+    padding: 6px 12px;
+    user-select: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D14424;
+    color: white;
+    border-radius: 3px;
+    outline: none;
+    font-size: 21px;
+    transition: opacity 0.2s;
+}
+.btn:active {
+    opacity: 0.5;;
+}
